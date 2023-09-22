@@ -1,0 +1,14 @@
+{
+    "Ads": [
+        {
+            "on_off_ads": "off",
+            "banner_type": "admob",
+            "inters_type": "admob",
+            "admob_banner": "ca-app-pub-3364085346806467/7064672153",
+            "admob_inters": "ca-app-pub-3364085346806467/5448202102",
+            "facebook_banner": "228502249847008_332238166140082",
+            "facebook_inters": "228502249847008_332238196140079",
+            "interval_inters": 12
+        }
+    ]
+}
