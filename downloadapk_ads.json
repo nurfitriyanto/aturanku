@@ -10,5 +10,6 @@
             "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
             "interval_inters": 6
         }
-    ]
+    ],
+    "banner_type": "off"
 }
